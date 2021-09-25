@@ -28,7 +28,7 @@ function Navbar() {
                         to="/" 
                         className='navbar-logo' 
                         onClick={scrollToTop}>
-                    Sayaka Kuwayama
+                    Sayaka K
                     </Link>
                     <div className='menu-icon' onClick={handleClick}>
                         <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
@@ -76,7 +76,7 @@ function Navbar() {
 
                         <li className='nav-item'>
                             <a 
-                                href='https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:b356d442-c5d4-4259-a621-98bd031c2373'
+                                href='https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:623df01a-e7c0-40c6-bda3-c74e518eeb67'
                                 rel="noreferrer" 
                                 target="_blank"
                                 className='nav-links'
