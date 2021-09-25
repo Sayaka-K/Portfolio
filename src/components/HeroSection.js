@@ -8,11 +8,11 @@ function HeroSection (){
     return (
         <div className='hero-container'>
             <video src='/videos/hero-video.mp4' autoPlay loop muted />
-            <h1>Hi, need a Software Engineer?</h1>
+            <h1>Hi, need a Data Scientist?</h1>
             <p>I am a motived student that is always looking for a challenge</p>
             <div className="hero-btns">
                 <Button scrollTo='my_projects' className='btns' buttonStyle='btn--outline' buttonsSize='btn--large' >
-                    My Projects
+                    Experience
                 </Button>
                 <Button scrollTo='contact' className='btns' buttonStyle='btn--primary' buttonsSize='btn--large' >
                     Contact Me

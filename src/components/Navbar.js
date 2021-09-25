@@ -28,7 +28,7 @@ function Navbar() {
                         to="/" 
                         className='navbar-logo' 
                         onClick={scrollToTop}>
-                    Robert O.
+                    Sayaka Kuwayama
                     </Link>
                     <div className='menu-icon' onClick={handleClick}>
                         <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
@@ -58,7 +58,7 @@ function Navbar() {
                                 offset={-70}
                                 duration={800}
                                 onClick={closeNavBar}
-                            >My Projects</Link>
+                            >My Experience</Link>
                         </li>
                         <li className='nav-item'>
                             <Link 
