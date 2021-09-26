@@ -8,30 +8,34 @@ function About(){
             </section>
             <section className='about-bio'>
                 <p className='about-bio-paragraph'>
-                I'm a Junior at <b>San Diego State University</b> working towards earning a <b>B.S. 
-                in Computer Science</b>. My passion for Computer Science started with a simple 
-                Hello World program in C++. Since then, I have worked on countless <b>Mobile </b> 
-                and <b>Web applications</b>, allowing me to learn new languages, tools, and frameworks 
-                like <b>Java, JavaScript, React.js, Python, Git</b>, and a couple of other ones.
-                I have recently started delving into the world of 
-                Artificial Intelligence and Computational Linguistics. 
+                I'm a Master's student in <b>Business Analytics</b> (aka Data Science for Businesses) 
+                at <b>Rady School of Management at UC San Diego</b>.  
+                
+                Prior to my master's, I did my undergraduate at UC San Diego in International Studies - Economics,
+                where I first encountered simple regression models in Econometrics class. 
+                I soon became fascinated by what we can with Data, and since then, 
+                I have been working my way out to become an effective Data Scientist. 
+                </p>
+
+                <p className='about-bio-paragraph'>
+                In my master's, I've learned Business-focused analytics (e.g., Customer analytics, Fraud analytics, Pricing Analytics), 
+                Data Science methodologies (e.g., Baysian learning, Working with unstructured data),
+                and Big Data tools (e.g., SQL, Hadoop, Cloud computing). 
+                Currently, I am working on a Capstone project with <b>Illumina</b> as a <b>Commercial Business Analyst Intern</b>.
+                </p>
+
+                <p className='about-bio-paragraph'>
+                Besides Academia, I work as a <b>Data Analyst</b> for <b>The Neurosciences Department</b> at <b>UC San Diego</b>.
+                Speficically, I work for <b>The Study of Latinos - Investigation of Neurocognitive Aging (SOL-INCA)</b>, 
+                where I implement survey generalized models to investigate hypothesized associations between Neurocognitive aging and other health conditions. 
+                To effectively demonstrate the results of statistical analyses, I create interactive graphical user interface using Shiny. 
                 </p>
                 <p className='about-bio-paragraph'>
-                I currently work as a <b>Teaching Assistant (TA)</b> for <b>The Computer Science Department</b> at <b>San Diego State Univeristy</b>.
-                Besides academia, I have also worked as a <b>Freelance 
-                Software Engineer</b> for a local Keller Williams Realtor. I have also accepted 
-                an offer as a <b>Software Engineering Intern</b> at <b>Mitchell International</b> for the 
-                Summer of 2021. Unfortunatley my internship program for this summer has been canceled, but I am exited of what new opportunities
-                are to come.
-                </p>
-                <p className='about-bio-paragraph'>
-                Besides my computer science knowledge, three things that make me an effective 
-                software engineer are that <b>I am an excellent communicator</b>, <b>always eager to 
-                learn more</b>, and <b>very pragmatic</b>. Since I will graduate in May 2022, <b>I am 
-                actively seeking an internship role as a Software Engineer</b>. 
-                If my background aligns with the type of engineer you are searching for, 
-                then please contact me. If you're not convinced yet, then please check out 
-                my LinkedIn or resume. 
+                Lastly, three things that make me an effective 
+                Data Scientist are that I am a <b>fast learner</b>, <b>high achiever</b>, and always <b>willing to 
+                learn</b>. As I am graduating in December 2021, <b>I am 
+                actively seeking a full-time role as a Data Scientist</b>. 
+                If my background aligns with the type of Data Scientist you are searching for, please contact me! 
                 </p>
             </section>
         </div>

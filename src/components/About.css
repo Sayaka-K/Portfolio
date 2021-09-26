@@ -1,5 +1,5 @@
 .about-container{
-    padding: 0 5rem 5rem 8rem;
+    padding: 0 15rem 4rem 15rem;
     
     background:#fff;
 }
@@ -8,7 +8,7 @@ b{
 }
 
 .about-header{
-    padding: 0 6rem 2rem 2rem;
+    padding: 6rem 6rem 2rem 2rem;
     justify-content: left;
     align-items: center;
     text-align: center;
@@ -21,7 +21,7 @@ b{
 .about-bio {
     color: #252e48;
     padding: 0 3rem 2rem 2rem;
-    font-size: 22px;
+    font-size: 23px;
     font-weight: 100;
 }
 

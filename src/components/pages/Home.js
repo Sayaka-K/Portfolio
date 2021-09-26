@@ -9,8 +9,8 @@ function Home(){
     return(
         <>
             <HeroSection/>
-            <Cards/>
             <About/>
+            <Cards/>
             <Footer/>
         </>
     )
