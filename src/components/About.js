@@ -31,8 +31,10 @@ function About(){
                 To effectively demonstrate the results of statistical analyses, I create interactive graphical user interface using Shiny. 
                 </p>
                 <p className='about-bio-paragraph'>
-                Lastly, three things that make me an effective 
-                Data Scientist are that I am a <b>fast learner</b>, <b>high achiever</b>, and always <b>willing to 
+                Lastly, an important quality that makes me an effective 
+                Data Scientist is that my experience lies is intersection of <b>Technical skills</b> and <b>Social science</b>.
+                I am experienced to <b>ask "good" questions</b>, <b>design solution paths</b>, and <b>bring compelling analytical capabilities</b>. 
+                I am also a <b>fast learner</b>, <b>high achiever</b>, and always <b>willing to 
                 learn</b>. As I am graduating in December 2021, <b>I am 
                 actively seeking a full-time role as a Data Scientist</b>. 
                 If my background aligns with the type of Data Scientist you are searching for, please contact me! 
