@@ -25,11 +25,13 @@ function Cards(){
                     src='images/shiny.png'
                     title='Shiny Dashboards'
                     text="As a Data Analyst at the SOL-INCA in the Department of Neurosciences at UC San Diego, 
-                    I investigate associations between neurocognitive aging and other health conditions. 
-                    The analysis using publicly available data is to be added soon!
-                    For now, feel free to see the sample R Markdown document I created with Shiny interactive features."
+                    I investigate associations between neurocognitive aging and other health conditions and demonstrate
+                    the analsis results using Shiny. 
+                    Currently, I am also working on creating a guide for Shiny apps that best showcase our analysis results.
+                    Please click to explore. 
+                    (A real project using publicly available data is to be added soon!)"
                     label='Work'
-                    path='http://sayaka-app.shinyapps.io/Testing' />
+                    path='https://solincalab.shinyapps.io/Shiny_demo/' />
 
                     <CardItem 
                     src='images/petco-logo.png'
