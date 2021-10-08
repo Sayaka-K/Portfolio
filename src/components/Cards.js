@@ -8,6 +8,7 @@ function Cards(){
         <div className='cards' id='my_projects'>
             <div className='cards__header'>
                 <h1>Experience</h1>
+                    <h6>*Please click on the cards to explore</h6>
             </div>
             
             <div className='cards__wrapper'>
@@ -24,12 +25,11 @@ function Cards(){
                     <CardItem 
                     src='images/shiny.png'
                     title='Shiny Dashboards'
-                    text="As a Data Analyst at the SOL-INCA in the Department of Neurosciences at UC San Diego, 
+                    text="As a Data Analyst at the Department of Neurosciences at UC San Diego, 
                     I investigate associations between neurocognitive aging and other health conditions and demonstrate
                     the analsis results using Shiny. 
                     Currently, I am also working on creating a guide for Shiny apps that best showcase our analysis results.
-                    Please click to explore. 
-                    (A real project using publicly available data is to be added soon!)"
+                    Please click to explore."
                     label='Work'
                     path='https://solincalab.shinyapps.io/Shiny_demo/' />
 
